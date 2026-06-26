@@ -1,83 +1,90 @@
-# Hi, I'm Venkata Rao Allu 👋
-
-**Mechanical Engineer · Cybersecurity Analyst · AI Builder**
-
-Glassboro, NJ · Incoming Cyber Analyst @ Velko Systems
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0FAF8A&center=true&vCenter=true&width=600&lines=Hi+I'm+Venkata+Rao+Allu+👋;Mechanical+Engineer;Cybersecurity+Analyst;AI+Builder" alt="Typing" />
+</div>
 
 ---
 
-## 🚀 What I Build
+## About Me
 
-### ⚙ PartMatch AI
-**The Google of Industrial Parts**
-> Free global search engine for aftermarket industrial parts. 37 suppliers. 6 continents. AI-powered. Built from real procurement pain.
+🔩 Mechanical Engineer + 🔐 Cybersecurity MS + 🤖 AI Builder  
+📍 Glassboro, NJ · Incoming Cyber Analyst @ Velko Systems LLC
 
-🔗 [partmatch-ai.vercel.app](https://partmatch-ai.vercel.app) · [GitHub](https://github.com/Venkatallu11/partmatch-ai)
+I build tools that solve problems I have personally experienced.
+2+ years sourcing hydraulic and pneumatic parts globally across
+India, Europe and Southeast Asia — then I built the tool I always needed.
 
-**Stack:** HTML · CSS · JavaScript · Brave Search API · Claude AI · GPT-4o · Gemini · Vercel
-
----
-
-### 🤖 CADGenie
-**AI Engineering CAD Assistant**
-> Generate engineering schematics from natural language. No CAD skills needed.
-
-🔗 [cadgenie.netlify.app](https://cadgenie.netlify.app) · [GitHub](https://github.com/Venkatallu11/CadGenie1)
-
----
-
-### 🐾 Woofu.com
-**AI Veterinary Platform**
-> AI-powered vet assistant for proactive pet care. Product development contributor.
-
-🔗 [woofu.com](https://woofu.com)
-
----
-
-## 🛠 Skills
-
-**Cybersecurity:** SIEM (Splunk, Snort) · Threat Analysis · Network Defense · Digital Forensics · Vulnerability Assessment · OT/ICS Security
-
-**Engineering:** Hydraulic & Pneumatic Systems · AutoCAD · CATIA · Industrial Seals · CNC Machining · Pressure/Flow Calculations
-
-**Development:** JavaScript · Python · Shell Scripting · AI/LLM Integration · GitHub · REST APIs
-
-**Cloud:** AWS · Azure · Vercel · Netlify · Cloudflare · Linux
-
----
-
-## 📊 Background
-
-- 🎓 MS Cybersecurity — Rowan University, NJ (GPA 3.4)
-- 🎓 B.Tech Mechanical Engineering — St. Martin's Engineering College, India
-- 💼 Mechanical Engineer @ Delta Construction Systems / HCL Copper Mines, India
-- 💼 Incoming Cyber Analyst @ Velko Systems LLC (April 2026)
+- ⚙️ Built **PartMatch AI** — free global industrial parts search engine
+- 🤖 Built **CADGenie** — AI engineering CAD assistant
+- 🐾 Contributed to **Woofu.com** — AI veterinary platform
 - 📄 Published researcher — Autonomous Ornithopter UAV (IRJET 2020)
-- 🌍 Global procurement across India, Europe & Southeast Asia
+- 🌍 Sourced parts from 15+ countries, reduced costs by 25%
+- 🎓 MS Cybersecurity — Rowan University NJ (GPA 3.4)
+- 🎓 B.Tech Mechanical Engineering — India
 
 ---
 
-## 📈 Impact Numbers
+## 🚀 Live Projects
 
-| Achievement | Result |
-|-------------|--------|
-| Productivity gained at mining site | +30% |
-| Cost reduction via global procurement | -25% |
-| Emergency purchases eliminated | -20% |
-| AI apps built and deployed | 3+ |
-| Countries sourced parts from | 15+ |
-| Global suppliers in PartMatch AI | 37 |
+| Project | What it does | Link |
+|---------|-------------|------|
+| ⚙️ PartMatch AI | Global industrial parts search engine — 37 suppliers, 6 continents, free forever | [partmatch-ai.vercel.app](https://partmatch-ai.vercel.app) |
+| 🤖 CADGenie | AI generates engineering schematics from natural language | [cadgenie.netlify.app](https://cadgenie.netlify.app) |
+| 🐾 Woofu | AI veterinary assistant platform | [woofu.com](https://woofu.com) |
 
 ---
 
-## 🔗 Connect
+## 🛠️ Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-venkata--rao--allu-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/venkata-rao-allu)
-[![Email](https://img.shields.io/badge/Email-alluvenkat11@gmail.com-D14836?style=flat&logo=gmail)](mailto:alluvenkat11@gmail.com)
-[![PartMatch AI](https://img.shields.io/badge/PartMatch_AI-Live_App-0FAF8A?style=flat)](https://partmatch-ai.vercel.app)
-[![CADGenie](https://img.shields.io/badge/CADGenie-Live_App-6C63FF?style=flat)](https://cadgenie.netlify.app)
+**Cybersecurity:** SIEM · Snort · Splunk · Threat Analysis ·
+ICS/OT Security · Cryptography · Digital Forensics · Azure · AWS
+
+**Mechanical:** Hydraulics · Pneumatics · AutoCAD · CATIA ·
+CNC Machining · Fleetio · Maintenance Systems
+
+**Procurement:** Global Sourcing · 3PL Logistics ·
+Aftermarket Sales · B2B Sales · Supplier Negotiation
+
+**Development:** Python · JavaScript · Claude AI ·
+GitHub · Vercel · Netlify · Prompt Engineering
 
 ---
 
-*Currently open to: Cybersecurity (SOC/OT/ICS) · Mechanical Engineering · Technical Sales · AI tooling roles.*
-*Remote or hybrid preferred. Open to relocation anywhere in the US.*
+## 📊 By The Numbers
+
+- **+30%** productivity gained at HCL Copper Mines
+- **-25%** cost reduction via global procurement
+- **15+** countries sourced industrial parts from
+- **37** global suppliers in PartMatch AI
+- **3+** AI applications built and deployed
+- **1** peer-reviewed paper published
+
+---
+
+## 🌐 Open To
+
+✅ Cybersecurity — SOC Analyst · Cyber Analyst · OT/ICS Security  
+✅ Mechanical — Procurement Engineer · Maintenance Engineer  
+✅ Sales — Technical Sales Engineer · Aftermarket Sales  
+✅ Location — Remote · Hybrid · NJ · Open to US relocation
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=Venkatallu11&show_icons=true&theme=dark&bg_color=0B1C3D&title_color=0FAF8A&icon_color=0FAF8A&text_color=ffffff&border_color=0FAF8A" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatallu11&layout=compact&theme=dark&bg_color=0B1C3D&title_color=0FAF8A&text_color=ffffff&border_color=0FAF8A" />
+</div>
+
+---
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/venkata-rao-allu)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:alluvenkat11@gmail.com)
+[![PartMatch AI](https://img.shields.io/badge/PartMatch_AI-Live-0FAF8A?style=for-the-badge)](https://partmatch-ai.vercel.app)
+
+*📧 alluvenkat11@gmail.com ·
+🔗 linkedin.com/in/venkata-rao-allu*
+
+</div>
