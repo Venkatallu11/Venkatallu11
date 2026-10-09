@@ -1,1 +1,66 @@
-PGRpdiBhbGlnbj0iY2VudGVyIj4KCiMgVmVua2F0YSBSYW8gQWxsdQoKIyMjIEkgYnVpbGQgdGhpbmdzIHRoYXQgd29yay4gUXVhbnR1bSBlbmdpbmVzLiBBSSB0b29scy4gTGl2ZSBwcm9kdWN0cy4KCk1lY2hhbmljYWwgZW5naW5lZXIg4oaSIE0uUy4gQ3liZXJzZWN1cml0eSDihpIgaW5kZXBlbmRlbnQgYnVpbGRlciBzaGlwcGluZyAqKnZlcmlmaWFibGUqKiBzb2Z0d2FyZSBhY3Jvc3MgQUksIHF1YW50dW0gY29tcHV0aW5nLCBhbmQgY3liZXJzZWN1cml0eS4KKipUd28gcHJvamVjdHMgYWNjZXB0ZWQgaW50byB0aGUgUWlza2l0IEVjb3N5c3RlbS4qKiBUaHJlZSBmbGFnc2hpcCBwcm9kdWN0cyBsaXZlIG9uIHRoZSB3ZWIuIFFpc2tpdCBBZHZvY2F0ZSBzaW5jZSBBdWcgMjAyNi4KCvCfk40gR2xhc3Nib3JvLCBOSiAmbmJzcDvCtyZuYnNwOyDinInvuI8gW2FsbHV2ZW5rYXQxMUBnbWFpbC5jb21dKG1haWx0bzphbGx1dmVua2F0MTFAZ21haWwuY29tKSAmbmJzcDvCtyZuYnNwOyDwn5K8IFtsaW5rZWRpbi5jb20vaW4vdmVua2F0YS1yYW8tYWxsdV0oaHR0cHM6Ly9saW5rZWRpbi5jb20vaW4vdmVua2F0YS1yYW8tYWxsdSkKCjwvZGl2PgoKLS0tCgojIyDwn5SlIFdoYXQgSSdtIGJ1aWxkaW5nIG5vdwoKfCB8IFByb2plY3QgfCBXaGF0IGl0IGRvZXMgfAp8LS0tfC0tLXwtLS18Cnwg4pqZ77iPIHwgWyoqUGFydE1hdGNoIEFJKipdKGh0dHBzOi8vcGFydG1hdGNoLWFpLnZlcmNlbC5hcHApIHwgIlRoZSBHb29nbGUgb2YgSW5kdXN0cmlhbCBQYXJ0cyIg4oCUIGZyZWUgZ2xvYmFsIGFmdGVybWFya2V0IHBhcnRzIHNlYXJjaC4gMzcgc3VwcGxpZXJzIGFjcm9zcyA2IGNvbnRpbmVudHMsIGxhbmRlZC1jb3N0IG1hdGggKGR1dHksIHRheCwgc2hpcHBpbmcpIG9uIGV2ZXJ5IGNhcmQuIDM2LzM2IHRlc3RzIHBhc3NpbmcuIHwKfCDwn5uw77iPIHwgWyoqT3JiaXRhbCBXYXRjaCoqXShodHRwczovL3ZlbmthdGFsbHUxMS5naXRodWIuaW8vb3JiaXRhbC13YXRjaC8pIHwgT3Blbi1zb3VyY2Ugc2F0ZWxsaXRlIG1hbmV1dmVyIGRldGVjdGlvbiB2cy4gJDIsNTAwL21vL3NhdCBjb21tZXJjaWFsIGZlZWRzLiBMaXZlIDNEIGdsb2JlLCBmbGVldC13aWRlIG1hbmV1dmVyIGZlZWQsIGhvdXJseSByZWZyZXNoLiAxNDEgYXV0b21hdGVkIHRlc3RzLiB8Cnwg4pqb77iPIHwgWyoqUUVNIEF1ZGl0b3IqKl0oaHR0cHM6Ly9naXRodWIuY29tL1ZlbmthdGFsbHUxMS9xZW0tYXVkaXRvcikgfCBBZHZlcnNhcmlhbCBhdWRpdG9yIGZvciBxdWFudHVtIGVycm9yLW1pdGlnYXRpb24gY2xhaW1zLiBBSSBkZXNpZ25zIGZhbHNpZmljYXRpb24gZXhwZXJpbWVudHM7IGRldGVybWluaXN0aWMgUHl0aG9uIGdyYWRlcyB0aGVtLiA4LXZlcmRpY3QgbGFkZGVyOiBgSU5WQUxJRGAg4oaSIGBDRVJUSUZJRUQgVU5ERVIgU0NPUEVgLiA2OTkgdGVzdHMuIFFpc2tpdCBFY29zeXN0ZW0gbWVtYmVyLiB8CgotLS0KCiMjIOKam++4jyBRdWFudHVtIOKAlCAyw5cgUWlza2l0IEVjb3N5c3RlbSBtZW1iZXIKCi0gWyoqcXVhbnR1bS1jaGVtaXN0cnktdnFlKipdKGh0dHBzOi8vZ2l0aHViLmNvbS9WZW5rYXRhbGx1MTEvcXVhbnR1bS1jaGVtaXN0cnktdnFlKSDigJQgZnJvbS1zY3JhdGNoIFZRRSBlbmdpbmU6IG93biBpbnRlZ3JhbHMsIEhhcnRyZWUtRm9jaywgcXViaXQgSGFtaWx0b25pYW4sIHZlcmlmaWVkIGFnYWluc3QgUHlTQ0YuICoqMC4wMTA14oCTMC4wMTkyIGtjYWwvbW9sIOKAlCA1MOKAkzk1w5cgdW5kZXIgY2hlbWljYWwgYWNjdXJhY3kqKiwgb24gSW9uUSBjbG91ZCBzaW11bGF0b3JzIChBcmlhLTEvRm9ydGUtMSBub2lzZSBtb2RlbHMpIHBsdXMgb25lIGRvY3VtZW50ZWQgcmVhbCB0cmFwcGVkLWlvbiBzcG90LWNoZWNrLiDimIU0Ci0gWyoqcWVtLWF1ZGl0b3IqKl0oaHR0cHM6Ly9naXRodWIuY29tL1ZlbmthdGFsbHUxMS9xZW0tYXVkaXRvcikg4oCUIDY5OSB0ZXN0czsgYmVuY2htYXJrIHN1aXRlIGF1ZGl0cyA5IG1pdGlnYXRpb24gbWV0aG9kcywgMiBvZiB0aGVtIGZyYXVkcy4KLSBbKipzdWJxdWFudHVtLW1lZGl1bSoqXShodHRwczovL2dpdGh1Yi5jb20vVmVua2F0YWxsdTExL3N1YnF1YW50dW0tbWVkaXVtKSDigJQgY29tcHV0YXRpb25hbCB0ZXN0YmVkIGZvciBxdWFudHVtIGZvdW5kYXRpb25zOyBib3VuZHMgb25lIG5vbi1lcXVpbGlicml1bSBwYXJhbWV0ZXIgYWNyb3NzICoqbmluZSByZWFsIGRhdGFzZXRzKiogKH4zNSBvcmRlcnMgb2YgbWFnbml0dWRlKSwgaW5jbC4gUGxhbmNrIDIwMTggVFQuCi0gWyoqUS1TaGllbGQqKl0oaHR0cHM6Ly9naXRodWIuY29tL1ZlbmthdGFsbHUxMS9RLVNoaWVsZCkg4oCUIGF0dGFjay1wYXRoLWF3YXJlIHBvc3QtcXVhbnR1bSBtaWdyYXRpb24gcGxhbm5lci4gMzkzIHRlc3RzOyA5My4zJSBwbGFuIGFncmVlbWVudCBvbiBQS0kgaW5zdGFuY2VzLgotIFsqKmRvZXMtcXVhbnR1bS1ub2lzZS1yZW1lbWJlcioqXShodHRwczovL2dpdGh1Yi5jb20vVmVua2F0YWxsdTExL2RvZXMtcXVhbnR1bS1ub2lzZS1yZW1lbWJlcikg4oCUIGZhbHNpZmlhYmxlIHJlc2VhcmNoIHByb2dyYW06IGNhbiBxdWFudHVtIG5vaXNlIGhhdmUgdGVtcG9yYWwgbWVtb3J5PwoKLS0tCgojIyDwn5ug77iPIEFJICYgYXBwcwoKLSBbKipDYWRHZW5pZTEqKl0oaHR0cHM6Ly9naXRodWIuY29tL1ZlbmthdGFsbHUxMS9DYWRHZW5pZTEpIOKAlCB0ZXh0LXRvLXNjaGVtYXRpYyBDQUQgYXNzaXN0YW50IChSZWFjdCArIFZpdGUpLiBSZWFsIEFTQ0lJIERYRiAoUjEyKSBleHBvcnQsIHBhcmFtZXRyaWMgZW5naW5lZXJpbmcgbWF0aC4gW2NhZGdlbmllLm5ldGxpZnkuYXBwXShodHRwczovL2NhZGdlbmllLm5ldGxpZnkuYXBwKQotIFsqKnRoZXdvb2Z1KipdKGh0dHBzOi8vZ2l0aHViLmNvbS9WZW5rYXRhbGx1MTEvdGhld29vZnUpIOKAlCBBSSB2ZXRlcmluYXJ5IGFzc2lzdGFudCBNVlAuIFBldCBwcm9maWxlcywgY29uc2VydmF0aXZlIHN5bXB0b20gdHJpYWdlLCBoZWFsdGggdGltZWxpbmUsIGNhcmUgcmVtaW5kZXJzLiAqKlplcm8tZGVwZW5kZW5jeSBQeXRob24uKioKLSBbKipoci1zdXBlci1hZ2VudCoqXShodHRwczovL2dpdGh1Yi5jb20vVmVua2F0YWxsdTExL2hyLXN1cGVyLWFnZW50KSDigJQgTUNQIHNlcnZlciBleHBvc2luZyAxMyBBSS1jYWxsYWJsZSBIUiB0b29sczogbGVhdmUsIG9uYm9hcmRpbmcsIDUwLXN0YXRlIFVTIHBheXJvbGwgY29tcGxpYW5jZSwgcGF5LWVxdWl0eSBhbmFseXRpY3MsIHJlYWwgU2xhY2svZW1haWwgbm90aWZpY2F0aW9ucy4KLSBbKipvc2Nhci1ob21lcyoqXShodHRwczovL2dpdGh1Yi5jb20vVmVua2F0YWxsdTExL29zY2FyLWhvbWVzKSDigJQgY2xpZW50IGJ1aWxkIGZvciBhIE5KIGNvbnRyYWN0b3I6IEFJIHByb2plY3QgZXN0aW1hdG9yICsgQUkgY2hhdCBhc3Npc3RhbnQuIExpdmUgYXQgW29zY2FyaG9tZXMudXNdKGh0dHBzOi8vb3NjYXJob21lcy51cykKCi0tLQoKIyMg8J+TiiBCeSB0aGUgbnVtYmVycwoKIVtWZW5rYXQncyBHaXRIdWIgc3RhdHNdKGh0dHBzOi8vZ2l0aHViLXJlYWRtZS1zdGF0cy52ZXJjZWwuYXBwL2FwaT91c2VybmFtZT1WZW5rYXRhbGx1MTEmc2hvd19pY29ucz10cnVlJnRoZW1lPXJhZGljYWwpCiFbVG9wIGxhbmd1YWdlc10oaHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBpL3RvcC1sYW5ncy8/dXNlcm5hbWU9VmVua2F0YWxsdTExJmxheW91dD1jb21wYWN0JnRoZW1lPXJhZGljYWwpCgotLS0KCiMjIPCfp7AgU3RhY2sKCioqUXVhbnR1bSAmIHNjaWVudGlmaWM6KiogUWlza2l0IMK3IElCTSBRdWFudHVtIMK3IFZRRSDCtyBQeVNDRiDCtyBTR1A0IC8gb3JiaXRhbCBtZWNoYW5pY3MgwrcgemVyby1ub2lzZSBleHRyYXBvbGF0aW9uCioqQUkgJiBkZXY6KiogUHl0aG9uIMK3IFR5cGVTY3JpcHQgwrcgUmVhY3QgwrcgVml0ZSDCtyBDbGF1ZGUgwrcgR1BULTRvIMK3IEdlbWluaSDCtyBNQ1AgwrcgUkVTVCBBUElzIMK3IEdpdEh1YiBBY3Rpb25zCioqU2VjdXJpdHk6KiogU0lFTSDCtyBTbm9ydCDCtyBTcGx1bmsgwrcgdGhyZWF0IGFuYWx5c2lzIMK3IGNyeXB0b2dyYXBoeSDCtyBJQ1MvT1Qgc2VjdXJpdHkgwrcgQXp1cmUgwrcgQVdTCioqTWVjaGFuaWNhbCAmIGluZHVzdHJpYWw6KiogQXV0b0NBRCDCtyBDQVRJQSDCtyBoeWRyYXVsaWNzIMK3IHBuZXVtYXRpY3MgwrcgQ05DIMK3IGdsb2JhbCBwcm9jdXJlbWVudCDCtyAzUEwgbG9naXN0aWNzIMK3IGFmdGVybWFya2V0IHNhbGVzCioqQ2xvdWQ6KiogVmVyY2VsIMK3IE5ldGxpZnkgwrcgQ2xvdWRmbGFyZSDCtyBMaW51eAoKLS0tCgojIyDwn5OEIEJhY2tncm91bmQKCi0g8J+OkyAqKk0uUy4gQ3liZXJzZWN1cml0eSoqLCBSb3dhbiBVbml2ZXJzaXR5ICgyMDIy4oCTMjAyNCksIEdQQSAzLjQKLSDwn46TICoqQi5UZWNoIE1lY2hhbmljYWwgRW5naW5lZXJpbmcqKiwgU3QuIE1hcnRpbidzIEVuZ2luZWVyaW5nIENvbGxlZ2UgKDIwMjApCi0g8J+UpyAqKk1lY2hhbmljYWwgRW5naW5lZXIqKiwgRGVsdGEgQ29uc3RydWN0aW9uIFN5c3RlbXMgLyBIQ0wgQ29wcGVyIE1pbmVzICgyMDIw4oCTMjAyMik6IGJ1aWx0IGEgcG5ldW1hdGljIG11bHRpLW51dCBydW5uZXIgKCszMCUgdGVhbSBwcm9kdWN0aXZpdHkpLCBtYW5hZ2VkIGdsb2JhbCBwcm9jdXJlbWVudCAo4oiSMjUlIGNvc3QpCi0g8J+ThCAqKlB1Ymxpc2hlZCByZXNlYXJjaGVyKiog4oCUIGF1dG9ub21vdXMgb3JuaXRob3B0ZXIgVUFWLCBJUkpFVCAoMjAyMCkKLSDwn5uCICoqV29yayBhdXRob3JpemF0aW9uOioqIEYtMSBPUFQg4oCUIGF1dGhvcml6ZWQgdG8gd29yayBpbiB0aGUgVS5TLiAoSW5kaWFuIGNpdGl6ZW4pCgotLS0KCjxkaXYgYWxpZ249ImNlbnRlciI+CgoqKlJlY3J1aXRlcnM6KiogSSBzaGlwLCBJIHRlc3QsIEkgZG9jdW1lbnQuIEV2ZXJ5IGNsYWltIGFib3ZlIGxpbmtzIHRvIGEgcmVwbyB5b3UgY2FuIHJlYWQuCioqVkNzOioqIFtQYXJ0TWF0Y2ggQUldKGh0dHBzOi8vcGFydG1hdGNoLWFpLnZlcmNlbC5hcHApIGFuZCBbUUVNIEF1ZGl0b3JdKGh0dHBzOi8vZ2l0aHViLmNvbS9WZW5rYXRhbGx1MTEvcWVtLWF1ZGl0b3IpIGFyZSB0aGUgdHdvIHdpdGggY29tbWVyY2lhbCBlZGdlcyDigJQgaGFwcHkgdG8gdGFsay4KCuKcie+4jyBbYWxsdXZlbmthdDExQGdtYWlsLmNvbV0obWFpbHRvOmFsbHV2ZW5rYXQxMUBnbWFpbC5jb20pIMK3IPCfkrwgW0xpbmtlZEluXShodHRwczovL2xpbmtlZGluLmNvbS9pbi92ZW5rYXRhLXJhby1hbGx1KSDCtyDwn5OeICg4NTYpIDgzMS0zNTE5Cgo8L2Rpdj4K
+# Venkata Rao Allu
+
+### I build things that work. Quantum engines. AI tools. Live products.
+
+Mechanical engineer turned M.S. Cybersecurity turned independent builder — shipping verifiable software across AI, quantum computing, and cybersecurity. Two projects accepted into the Qiskit Ecosystem. Three flagship products live on the web. Qiskit Advocate since Aug 2026.
+
+Glassboro, NJ · alluvenkat11@gmail.com · [linkedin.com/in/venkata-rao-allu](https://linkedin.com/in/venkata-rao-allu)
+
+---
+
+## What I'm building now
+
+**PartMatch AI** — [partmatch-ai.vercel.app](https://partmatch-ai.vercel.app)
+"The Google of Industrial Parts": free global aftermarket parts search. 37 suppliers across 6 continents, landed-cost math (duty, tax, shipping) on every card. 36/36 tests passing.
+
+**Orbital Watch** — [venkatallu11.github.io/orbital-watch](https://venkatallu11.github.io/orbital-watch/)
+Open-source satellite maneuver detection. Live 3D globe, fleet-wide maneuver feed, hourly refresh. 141 automated tests.
+
+**QEM Auditor** — [github.com/Venkatallu11/qem-auditor](https://github.com/Venkatallu11/qem-auditor)
+Adversarial auditor for quantum error-mitigation claims. 8-verdict ladder from INVALID to CERTIFIED UNDER SCOPE. 699 tests. Qiskit Ecosystem member.
+
+---
+
+## Quantum — 2x Qiskit Ecosystem member
+
+- **quantum-chemistry-vqe** — [github.com/Venkatallu11/quantum-chemistry-vqe](https://github.com/Venkatallu11/quantum-chemistry-vqe): from-scratch VQE engine (own integrals, Hartree-Fock, qubit Hamiltonian, verified against PySCF). 0.0105–0.0192 kcal/mol — 50–95x under chemical accuracy — on IonQ cloud simulators plus one documented real trapped-ion spot-check.
+- **qem-auditor** — [github.com/Venkatallu11/qem-auditor](https://github.com/Venkatallu11/qem-auditor): 699 tests; benchmark suite audits 9 mitigation methods, 2 of them frauds.
+- **subquantum-medium**: computational testbed for quantum foundations; bounds one non-equilibrium parameter across nine real datasets (~35 orders of magnitude), incl. Planck 2018 TT.
+- **Q-Shield** — [github.com/Venkatallu11/Q-Shield](https://github.com/Venkatallu11/Q-Shield): attack-path-aware post-quantum migration planner. 393 tests; 93.3% plan agreement on PKI instances.
+- **does-quantum-noise-remember** — [github.com/Venkatallu11/does-quantum-noise-remember](https://github.com/Venkatallu11/does-quantum-noise-remember): falsifiable research program — can quantum noise have temporal memory?
+
+---
+
+## AI and apps
+
+- **CadGenie1** — [cadgenie.netlify.app](https://cadgenie.netlify.app): text-to-schematic CAD assistant (React + Vite). Real ASCII DXF (R12) export, parametric engineering math. [Repo](https://github.com/Venkatallu11/CadGenie1)
+- **thewoofu**: AI veterinary assistant MVP. Pet profiles, conservative symptom triage, health timeline, care reminders. Zero-dependency Python.
+- **hr-super-agent** — [github.com/Venkatallu11/hr-super-agent](https://github.com/Venkatallu11/hr-super-agent): MCP server exposing 13 AI-callable HR tools — leave, onboarding, 50-state US payroll compliance, pay-equity analytics, real Slack/email notifications.
+- **oscar-homes**: client build for a NJ contractor — AI project estimator + AI chat assistant. Live at [oscarhomes.us](https://oscarhomes.us)
+
+---
+
+## Stack
+
+**Quantum and scientific:** Qiskit · VQE · PySCF · SGP4 / orbital mechanics · zero-noise extrapolation
+**AI and dev:** Python · TypeScript · React · Vite · Claude · GPT-4o · Gemini · MCP · REST APIs · GitHub Actions
+**Security:** SIEM · Snort · Splunk · threat analysis · cryptography · ICS/OT security · Azure · AWS
+**Mechanical and industrial:** AutoCAD · CATIA · hydraulics · pneumatics · global procurement · 3PL logistics · aftermarket sales
+**Cloud:** Vercel · Netlify · Cloudflare · Linux
+
+---
+
+## Background
+
+- M.S. Cybersecurity, Rowan University (2022–2024), GPA 3.4
+- B.Tech Mechanical Engineering, St. Martin's Engineering College (2020)
+- Mechanical Engineer, Delta Construction Systems / HCL Copper Mines (2020–2022): built a pneumatic multi-nut runner (+30% team productivity), managed global procurement (−25% cost)
+- Published researcher — autonomous ornithopter UAV, IRJET (2020)
+- Work authorization: F-1 OPT — authorized to work in the U.S. (Indian citizen)
+
+---
+
+**Recruiters:** I ship, I test, I document. Every claim above links to a repo you can read.
+**VCs:** PartMatch AI and QEM Auditor are the two with commercial edges — happy to talk.
+
+alluvenkat11@gmail.com · [LinkedIn](https://linkedin.com/in/venkata-rao-allu) · (856) 831-3519
